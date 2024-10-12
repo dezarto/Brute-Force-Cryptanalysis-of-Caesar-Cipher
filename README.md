@@ -8,7 +8,7 @@ This C program performs a brute-force attack to decrypt messages encrypted with 
 - **Brute-force decryption**: Attempts all possible Caesar Cipher shifts (1 to 26) to decrypt the message.
 - **Word detection**: Uses a dictionary of common words to verify the decrypted message.
 - **Automatic key detection**: If the correct key is found, it prints the key and the decrypted message.
-
+- **words.txt File**: There are 461392 words in the words.txt file.
 ## Compilation and Execution
 
 ### Compilation:
@@ -28,7 +28,7 @@ Bu C programı, Sezar Şifreleme tekniğiyle şifrelenmiş mesajları brute-forc
 - **Brute-force çözme**: Mesajı çözmek için 1'den 26'ya kadar olan tüm Sezar Şifreleme kaydırmalarını dener.
 - **Kelime tespiti**: Çözülen mesajı doğrulamak için yaygın kelimelerin bulunduğu bir sözlük kullanır.
 - **Otomatik anahtar tespiti**: Doğru anahtar bulunduğunda, anahtarı ve çözülen mesajı yazdırır.
-
+- **words.txt Dosyası**: words.txt dosyasının içerisinde 461392 kelime mevcut.
 ## Derleme ve Çalıştırma
 
 ### Derleme:
