@@ -14,8 +14,8 @@ This C program performs a brute-force attack to decrypt messages encrypted with 
 ### Compilation:
 Use any C compiler to compile the code. For example, with `gcc`:
 
-bash
-```gcc -o caesar_bruteforce caesar_bruteforce.c```
+```bash
+gcc -o caesar_bruteforce caesar_bruteforce.c
 
 ------------------------------------------------
 # Türkçe
